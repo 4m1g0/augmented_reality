@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="H725Ctrl">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/multipleMarkerIdentification/src/main/libs/H725Ctrl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

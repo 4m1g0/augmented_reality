@@ -1,0 +1,4 @@
+#Tue May 23 15:04:10 CEST 2017
+base.0=/home/4m1g0/Descargas/android-MediaRecorder-master/Application/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/4m1g0/Descargas/android-MediaRecorder-master/Application/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
